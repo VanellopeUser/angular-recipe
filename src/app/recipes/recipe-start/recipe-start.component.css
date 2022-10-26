@@ -1,0 +1,5 @@
+.card { background-color: rgba(245, 245, 245, 0.4); }
+.card-header, .card-footer { opacity: 1}
+h2{
+    color: rgb(105, 89, 89);
+}
